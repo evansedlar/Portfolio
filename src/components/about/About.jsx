@@ -18,7 +18,7 @@ const About = () => {
             <div className="a-right">
                 <h1 className="a-title">About Me</h1>
                 <p className="a-sub">
-                    My name is Evan Sedlar, and I am a junior web developer seeking exciting opportunities in the web development field.
+                    My name is Evan Sedlar, and I am a junior web developer working in The Woodlands, Texas seeking exciting opportunities in the web development field.
                 </p>
                 <p className="a-desc">
                     Prior to transitioning to web development, I served as a Combat Engineer Squad Leader in the Marine Corps, where I gained valuable experience in leadership, teamwork, and problem-solving. During my time in the military, I also had the opportunity to work on various construction projects, which sparked my interest in technology and engineering.
